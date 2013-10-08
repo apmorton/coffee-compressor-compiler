@@ -1,7 +1,7 @@
 Coffee Compressor Compiler
 =========================
 
-[![Build Status](https://travis-ci.org/Juvenal1228/coffee-compressor-compiler.png?branch=master)](https://travis-ci.org/Juvenal1228/coffee-compressor-compiler)
+[![Build Status](https://travis-ci.org/apmorton/coffee-compressor-compiler.png?branch=master)](https://travis-ci.org/apmorton/coffee-compressor-compiler)
 
 Purpose
 -------
@@ -30,7 +30,7 @@ Install with pip/easy_install from the pypi
 
 or clone the latest source
 
-    git clone https://github.com/Juvenal1228/coffee-compressor-compiler.git
+    git clone https://github.com/apmorton/coffee-compressor-compiler.git
     cd coffee-compressor-compiler
     python setup.py install
 
